@@ -18,6 +18,7 @@
     - "197*"
     - "1970s"
     - "70s"
+    - "70's"
   year_low: 1970
   year_high: 1979
 
@@ -38,6 +39,7 @@
     - "mid 70s"
     - "mid-70s"
     - "mid-70's"
+    - "mid 70"
   year_low: 1973
   year_high: 1976
 
@@ -46,6 +48,7 @@
     - "early 70s"
     - "early-70s"
     - "early 70's"
+    - "early 70"
   year_low: 1970
   year_high: 1973
 
